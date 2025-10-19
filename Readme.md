@@ -1,10 +1,10 @@
 # Personal Portfolio 🔥
-> https://rubenftgd.github.io/
+> https://rubenmotadeia.github.io/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rubenftgd/rubenftgd.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://rubenftgd.github.io/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rubenmotadeia/rubenmotadeia.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://rubenmotadeia.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rubenmtadeia/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
