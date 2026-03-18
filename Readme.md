@@ -2,7 +2,7 @@
 
 Personal portfolio - [rubenmotadeia.github.io](https://rubenmotadeia.github.io/)
 
-## Stack
+## Built with
 
 - HTML5, CSS3, JavaScript
 - Bootstrap 4
